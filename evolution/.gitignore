@@ -1,0 +1,9 @@
+*
+!.gitignore
+!erdos.py
+!erdos_llm.py
+!fitness.py
+!finetune.py
+!ga.py
+!generate.py
+!graph.py

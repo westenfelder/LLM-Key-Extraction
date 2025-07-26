@@ -46,3 +46,19 @@ huggingface-cli download meta-llama/Llama-3.1-8B-Instruct
 1. [Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://aclanthology.org/2023.inlg-main.3/), INLG 2023
 1. [Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning](https://aclanthology.org/2023.emnlp-main.674/), EMNLP 2023
 1. [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](https://openreview.net/forum?id=HJV1zP5xg)
+
+## ✍️ Citation
+If you find our work helpful, please cite:
+```
+@misc{region-constrained-beam-search-2025,
+    title={Language Model Data Extraction with Region-Constrained Beam Search},
+    author="Westenfelder, Finnian and
+        Jorgensen, Steven and
+        Morrison, James and
+        Hemberg, Erik and
+        O{'}Reilly, Una-May",
+    month={Jul},
+    year={2025},
+    url={https://github.com/westenfelder/LLM-Key-Extraction}
+}
+```
